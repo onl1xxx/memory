@@ -1,2 +1,2 @@
-# memory
+# memory card 
 тест небольшой
